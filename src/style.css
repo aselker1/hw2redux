@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.posts {
+    width: 90%;
+    margin: 90px auto 0 auto;
+    overflow-y: scroll;
+    height: 500px;
+}
+
+.post{
+    background-color: #4992d3;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+
+
+body {
+    background-color: #296ca8;
+    color: #fff; 
+}
+
+
